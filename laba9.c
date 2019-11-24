@@ -31,7 +31,6 @@ int absolute(int a){
 		return a; 
 	else return a*(-1);
 }
-
 int main(){
 	int t;
 	int i=13;
